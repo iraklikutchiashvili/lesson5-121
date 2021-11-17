@@ -1,0 +1,24 @@
+.navigation{
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav-li{
+	display: inline-block;
+	margin-right: 20px;
+}
+.logo{
+	vertical-align: middle;
+	margin-right: 92px;
+}
+.photo{
+	vertical-align: middle;
+	margin-left: 40px;
+}
+.firstblock{
+	margin-top: 11px;
+	margin-left: 20px;
+}
+.nav-a{
+	color: #343638;
+	font-size: 11px;
+}
